@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cairo_festival/static/css/main.2845683f.css",
+    "main.js": "/Cairo_festival/static/js/main.76ad70ae.js",
+    "index.html": "/Cairo_festival/index.html",
+    "main.2845683f.css.map": "/Cairo_festival/static/css/main.2845683f.css.map",
+    "main.76ad70ae.js.map": "/Cairo_festival/static/js/main.76ad70ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2845683f.css",
+    "static/js/main.76ad70ae.js"
+  ]
+}
